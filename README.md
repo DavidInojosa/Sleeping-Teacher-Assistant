@@ -13,9 +13,9 @@ TA is teaching student #?.
 
 TA finished teaching student #?.  
 
-Student #? is going to TA room.
-Student #? is awaking the TA.
-Student #? is getting inside TA room.
+Student #? is going to TA room.  
+Student #? is awaking the TA.  
+Student #? is getting inside TA room.  
 Student #? left TA room.
 There is no available chair to student #?. The student will return late.
 Student #? sat on chair #?. #? chair(s) remain.
