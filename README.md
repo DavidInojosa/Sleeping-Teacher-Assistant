@@ -1,12 +1,18 @@
 # Sleeping-Teacher-Assistant
 
-O exercício corresponde ao Project 2 - The Sleeping Teaching Assistant, página P-38 do livro Operating System Concepts de Silberschatz da décima edição
-Ao longo da execução, todos estudantes serão atendidos pelo TA uma única vez, e as seguintes mensagens devem ser apresentadas:
+O exercício corresponde ao Project 2 - The Sleeping Teaching Assistant, página P-38 do livro Operating System Concepts de Silberschatz da décima edição  
 
-TA is sleeping.
-TA went back to sleep.
-TA is teaching student #?.
-TA finished teaching student #?.
+Ao longo da execução, todos estudantes serão atendidos pelo TA uma única vez, e as seguintes mensagens devem ser apresentadas:  
+
+
+TA is sleeping. 
+
+TA went back to sleep.  
+
+TA is teaching student #?.  
+
+TA finished teaching student #?.  
+
 Student #? is going to TA room.
 Student #? is awaking the TA.
 Student #? is getting inside TA room.
